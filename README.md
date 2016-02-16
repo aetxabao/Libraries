@@ -1,8 +1,9 @@
-Libraries
+# Libraries
+
 Módulos para otras aplicaciones. Inicialmente sólo https://github.com/jfmdev/afiledialog Posteriormente: https://github.com/nicolasgramlich/AndEngine/tree/GLES2-AnchorCenter
 
 
-andEngine:
+# andEngine:
 
 https://github.com/nicolasgramlich/AndEngine/tree/GLES2-AnchorCenter
 
@@ -11,7 +12,7 @@ Free Android 2D OpenGL Game Engine http://www.andengine.org
 Nicolas Gramlich https://github.com/nicolasgramlich
 
 
-aFileDialog:
+# aFileDialog:
 
 https://github.com/jfmdev/afiledialog
 
