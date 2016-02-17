@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Libraries.iml" filepath="$PROJECT_DIR$/Libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/afiledialog/afiledialog.iml" filepath="$PROJECT_DIR$/afiledialog/afiledialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngine/andEngine.iml" filepath="$PROJECT_DIR$/andEngine/andEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
