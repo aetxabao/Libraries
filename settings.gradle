@@ -1,2 +1,2 @@
-include ':app', ':afiledialog'
+include ':app', ':afiledialog', ':andEnginePhysicsBox2DExtension'
 include ':andEngine'
